@@ -21,7 +21,7 @@
 
 ## ✍ Short Description
 
-This is a web site that suggest a movie to watch. Do you want to watch a movie today?\n
+This is a web site that suggest a movie to watch. Do you want to watch a movie today? <br>
 This project was proposed by Rocketseat 💜
 
 ## 🧪 Technologies
