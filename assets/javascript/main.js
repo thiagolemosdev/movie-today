@@ -21,6 +21,9 @@ const buscarFilme = async (random) => {
 
   if (APIResponse.status === 200) {
     const data = await APIResponse.json();
+    if (data.overview === "") {
+      return init();
+    }
     renderizaFilme(data);
   }
 };
