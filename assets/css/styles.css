@@ -75,8 +75,10 @@ main div.movie {
   padding: 10px;
 }
 
-main div.movie img {
+main div.movie img.movie-image {
   max-height: 400px;
+  border-radius: 5px;
+  box-shadow: 0 0 0.5em;
 }
 
 main div.movie h2 {

@@ -35,6 +35,7 @@ const buscarFilme = async (random) => {
 
 function renderizaFilme(data) {
   const imgFilme = document.createElement("img");
+  imgFilme.classList.add("movie-image");
   imgFilme.src = `https://image.tmdb.org/t/p/w500/${data.poster_path}`;
 
   const div = document.createElement("div");
