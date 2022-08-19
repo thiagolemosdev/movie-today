@@ -8,6 +8,11 @@ const random = (min = 0, max = 76341) => {
 function init() {
   buscarFilme(random());
   divMovie.innerHTML = "";
+
+  const loading = document.createElement("img");
+  loading.src =
+    "https://pa1.narvii.com/6618/792033cfa9e0199d425108ae0b9a111f624107c1_hq.gif";
+  divMovie.appendChild(loading);
 }
 
 const buscarFilme = async (random) => {
@@ -42,6 +47,7 @@ function renderizaFilme(data) {
   p.innerText = data.overview;
   div.appendChild(p);
 
+  divMovie.innerHTML = "";
   divMovie.appendChild(imgFilme);
   divMovie.appendChild(div);
 }
