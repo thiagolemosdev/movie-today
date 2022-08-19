@@ -50,7 +50,7 @@ You can view the project through the links below:
 
 - [Live Preview](https://movietoday.thiagolemos.tech/)
 
-<!-- - [Figma](https://www.figma.com/file/um92YqpfGlWiarQUpXwA8v/Sign-Up) -->
+- [Figma](<https://www.figma.com/file/DVibpHTm5PNEXwkNeg6DzJ/DD-%2F-Rocketflix-(Copy)>)
 
 <!-- Remembering that you need to have a [Figma](http://figma.com/) account to access it. -->
 
