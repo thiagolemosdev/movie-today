@@ -21,7 +21,8 @@
 
 ## ✍ Short Description
 
-This project is just for study. This is a web site that suggest a movie to watch. Do you want to watch a movie today?
+This is a web site that suggest a movie to watch. Do you want to watch a movie today?\n
+This project was proposed by Rocketseat 💜
 
 ## 🧪 Technologies
 
